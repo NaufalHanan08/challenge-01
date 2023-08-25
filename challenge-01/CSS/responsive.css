@@ -1,0 +1,210 @@
+@media screen and (max-width: 576px) {
+  html,
+  body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* sidenavbar */
+  .navbar-toggler {
+    border: none;
+  }
+
+  .offcanvas-header {
+    padding-top: 25px;
+    padding-bottom: 0px;
+  }
+
+  li.nav-item {
+    padding-left: 0px;
+  }
+
+  .offcanvas-title {
+    font-size: 14px;
+  }
+
+  .offcanvas-end {
+    max-width: 50%;
+  }
+
+  /* hero section */
+  section#hero.position-relative {
+    height: 600px;
+  }
+
+  div.col-md-6.hero-tagline {
+    padding-top: 80px;
+  }
+
+  #hero .position-absolute {
+    width: 344.22px;
+    height: 199px;
+  }
+
+  /* our services */
+  #our_services .row img {
+    width: 252px;
+    height: 228px;
+    margin-left: 38px;
+  }
+
+  .desc-our-services {
+    padding: 0px;
+    padding-top: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  #our_services img.check-list {
+    height: 24px;
+    width: 40px;
+    margin-left: 0px;
+  }
+
+  section#why_us.container {
+    margin-top: 90px;
+  }
+
+  div.why-us {
+    text-align: center;
+  }
+
+  section#why_us div.card {
+    margin-bottom: 15px;
+  }
+
+  /* Testimonial */
+  #testimonial .item.row {
+    padding: 0px;
+    margin: 0px;
+  }
+
+  section#testimonial.container-fluid {
+    margin-top: 60px;
+    padding: 0px 13px;
+  }
+
+  div.item.rounded-3 {
+    height: 372px;
+  }
+
+  #testimonial .rating {
+    margin-left: -60px;
+    width: 264px;
+    margin-top: 150px;
+  }
+
+  #testimonial .rating p {
+    width: 264px;
+  }
+
+  #testimonial .photo img {
+    margin-left: 79px;
+    margin-top: -55px;
+  }
+
+  #testimonial .rating img {
+    margin: auto;
+    margin-top: -10px;
+    margin-bottom: 18px;
+  }
+
+  #testimonial button.owl-prev {
+    margin-right: 20px;
+  }
+
+  section.container.banner {
+    width: 328px;
+    height: 400px;
+    margin-top: 60px;
+  }
+
+  .text-banner h1 {
+    font-size: 24px;
+    line-height: 36px;
+    width: 212px;
+    margin-top: -18px;
+    margin-left: 45px;
+  }
+
+  .banner p {
+    width: 212px;
+    margin-bottom: -20px;
+  }
+
+  section#faq.container {
+    margin-top: 50px;
+    padding-bottom: 0;
+  }
+
+  #faq .faq {
+    width: auto;
+    margin-left: 10px;
+  }
+
+  #faq .fw-bold {
+    text-align: center;
+  }
+
+  #faq .accordion {
+    margin: 0px;
+    margin-right: 4px;
+    padding: 0px;
+    width: 335px;
+  }
+
+  .foot {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 30px;
+    padding-bottom: 60px;
+    width: 100%;
+  }
+  .text-footer {
+    margin: 0px;
+    margin-top: 16px;
+    padding: 0px;
+  }
+  .addres {
+    margin: 0px;
+    margin-left: 32px;
+    padding: 0px;
+  }
+  .jalan {
+    margin-right: 140px;
+  }
+  .nav-foot {
+    margin: 0px;
+    margin-left: 33px;
+    padding: 0px;
+  }
+  .text-nav-foot {
+    margin-top: 16px;
+  }
+  .social {
+    margin: 0px;
+    margin-top: 16px;
+    margin-left: 33px;
+    padding: 0px;
+  }
+  .icon-social {
+    margin-right: 16px;
+  }
+  .connect {
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 16px;
+  }
+  .copyright {
+    margin: 0px;
+    margin-top: 16px;
+    margin-left: 33px;
+    padding: 0px;
+  }
+  .copy-text {
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 16px;
+  }
+}
